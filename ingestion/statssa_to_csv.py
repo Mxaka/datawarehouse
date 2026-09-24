@@ -6,7 +6,7 @@ from pathlib import Path
 
 HEADER_COLUMNS = ["H01", "H02", "H03", "H04", "H05", "H06", "H13", "H15", "H16", "H17", "H18", "H23", "H24", "H25"]
 
-DEFAULT_OUT = Path(__file__).resolve().parents[2] / "datasets" / "source_statssa"
+DEFAULT_OUT = Path(__file__).resolve().parent.parent / "datasets" / "source_statssa"
 HEADER_LINE = re.compile(r"^(H\d+):\s?(.*)$")
 NUMBER = re.compile(r"^-?\d+(\.\d+)?$")
 
