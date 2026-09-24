@@ -1,0 +1,4 @@
+series_code,timeseries_name,description
+MMRD000A,Prime lending rate,Benchmark rate at which private banks lend out to the public.
+MMRD002A,SARB Policy Rate,The SARB Policy Rate (SPR) is the interest rate set by the Monetary Policy Committee (MPC) to achieve the inflation target.
+EXCX135D,Rand per US Dollar,Weighted average of the banks' daily rates at approximately 10:30 am. Weights are based on the banks' foreign exchange transactions.
