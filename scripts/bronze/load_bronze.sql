@@ -1,7 +1,4 @@
 /*
-===============================================================================
-Load Bronze Layer (Source -> Bronze)
-===============================================================================
 Script Purpose:
     Truncates the bronze_layer tables and loads them from the CSV files.
 
@@ -15,7 +12,6 @@ Before you run it:
        slashes, even on Windows, e.g. 'C:/Users/you/dwh/datasets/source_statssa/...'
     3. Enable LOCAL INFILE (server: SET GLOBAL local_infile = 1; Workbench
        connection: Advanced > Others > OPT_LOCAL_INFILE=1).
-===============================================================================
 */
 
 SELECT '>> Loading bronze_layer.statssa_series' AS message;
