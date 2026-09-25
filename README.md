@@ -121,3 +121,9 @@ within a small rounding margin.
   official Stats SA product.
 - **Data**: South African Reserve Bank (SARB) Web API — repo/policy rate,
   prime lending rate, and exchange rate data.
+
+## Continued Work on The Project
+
+- **Data**: Statistics South Africa (Stats SA) — Use wholesale trade sales and motor trade sales for a more comprehensive economic "analysis"
+- **Data**: South African Reserve Bank (SARB) Web API — check against the Euro and the Pound instead of just the Dollar and potentially currencies
+- **Tool**: The tech will only grow from here, building a fully comprehensive datawarehouse
