@@ -127,3 +127,5 @@ within a small rounding margin.
 - **Data**: Statistics South Africa (Stats SA) — Use wholesale trade sales and motor trade sales for a more comprehensive economic "analysis"
 - **Data**: South African Reserve Bank (SARB) Web API — check against the Euro and the Pound instead of just the Dollar and potentially currencies
 - **Tool**: The tech will only grow from here, building a fully comprehensive datawarehouse
+
+WTC-L4KT4DV4
